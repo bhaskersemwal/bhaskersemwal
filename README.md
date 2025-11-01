@@ -72,6 +72,14 @@
 
 ---
 
+### 📅 GitHub Activity (Active Days & Contributions)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaskerSemwal&bg_color=0d1117&color=00d9ff&line=00c8ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### ✨ Quote I Live By
 
 > “Code is like humor. When you have to explain it, it’s bad.”  
