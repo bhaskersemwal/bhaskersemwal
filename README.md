@@ -92,5 +92,6 @@ Git · GitHub · VS Code · Google Colab · Jupyter · Postman · Render · Verc
 </p>
 
 ---
-
-⭐ **If you find my projects useful, don’t forget to star them!**
+<p align="center">
+  <img src="https://yourimageurl.com/fake-contributions.png" alt="Fake Contributions" />
+</p>
