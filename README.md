@@ -93,5 +93,5 @@ Git · GitHub · VS Code · Google Colab · Jupyter · Postman · Render · Verc
 
 ---
 <p align="center">
-  <img src="https://yourimageurl.com/fake-contributions.png" alt="Fake Contributions" />
+  <img src="bit.ly/4hGs8F1" />
 </p>
