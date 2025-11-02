@@ -1,180 +1,166 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#00bfff;">[Your Name]</span></h1>
-<h3 align="center">🌍 Full Stack Developer | 🧠 Data Scientist | 🤖 AI & ML Researcher | 💡 Problem Solver</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00bfff;">Bhasker Semwal</span></h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 Data Scientist | 🤖 AI & ML Explorer | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=I+love+to+build+scalable+web+apps+and+AI+systems.;Exploring+the+intersection+of+data+%26+intelligence.;Turning+ideas+into+code+%26+code+into+impact." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+code+%26+code+into+impact.;Building+scalable+AI-powered+web+apps.;Exploring+data%2C+intelligence+%26+innovation.;Crafting+digital+experiences+that+matter.">
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧭 About Me
 
-I'm a **software engineer and data enthusiast** who blends **full-stack web development** with **machine learning and AI** to create intelligent digital experiences.  
+I’m a **passionate developer** who loves creating products that **merge data, intelligence, and design**.  
+I thrive at the intersection of **AI, web development, and system design** — turning complex challenges into elegant solutions.  
 
-- 🔭 I’m currently building **AI-powered web applications** with **Django**, **React**, and **Flask**  
-- 🧠 I love working on **data-driven systems**, **predictive analytics**, and **NLP**  
-- 💬 Ask me about: **Django, MERN Stack, AI/ML, Data Science, System Design**  
-- 🎯 My focus: Creating tools that *solve real problems* through *smart automation*  
-- 🌱 Currently learning: **Generative AI**, **LangChain**, **Deep Learning**, and **MLOps**  
-- ⚡ Beyond coding: I enjoy designing UI/UX, writing tech blogs, and exploring future tech trends
+💡 *“Don’t just code it. Craft it.”*  
 
----
-
-## 🧠 Tech Expertise
-
-| Domain | Technologies |
-|--------|---------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Redux |
-| **Backend** | Django, Flask, Node.js, Express, REST APIs |
-| **Databases** | PostgreSQL, MongoDB, SQLite, MySQL |
-| **AI & ML** | TensorFlow, PyTorch, scikit-learn, OpenCV, LangChain |
-| **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Power BI |
-| **DevOps & Tools** | Git, GitHub Actions, Docker, Linux, AWS, Nginx, VS Code |
+- 🔭 Currently working on: **AI-powered Web & Data Systems**
+- 🌱 Learning: **Generative AI**, **LangChain**, **MLOps**, **Next.js 15**
+- 💬 Ask me about: **MERN Stack, Django, Flask, AI/ML, System Design**
+- ⚡ Fun fact: I love giving my projects cinematic names 😎
 
 ---
 
-## 🏗️ Featured Projects
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,redux,python,django,flask,nodejs,express,mongodb,postgresql,mysql,git,github,docker,aws,linux,vscode&perline=9" />
+</p>
+
+---
+
+## 🧠 My Core Expertise
+
+| **Domain** | **Tech Stack / Tools** |
+|-------------|------------------------|
+| **Frontend** | React, Next.js, Tailwind, Redux, TypeScript |
+| **Backend** | Django, Flask, Node.js, Express |
+| **Databases** | MongoDB, PostgreSQL, MySQL, SQLite |
+| **AI/ML** | TensorFlow, PyTorch, Scikit-learn, OpenCV, LangChain |
+| **Data Analytics** | Pandas, NumPy, Matplotlib, Power BI |
+| **DevOps & Tools** | Docker, AWS, Nginx, GitHub Actions, Linux |
+
+---
+
+## 🚀 Featured Projects
 
 ### 🧠 **AI Resume Analyzer**
-> An AI-based resume parser and job-fit recommender using NLP and ML models.  
-> **Tech:** Django, React, Scikit-learn, Transformers, PostgreSQL  
-> **Highlights:** Extracts skills, predicts job match score, and generates visual insights.
+> A smart NLP-based system that analyzes resumes and predicts job-fit scores.  
+> **Stack:** Django, React, Scikit-learn, PostgreSQL  
+> 🔹 Extracts skills, analyzes strengths, and visualizes fit score.
+
+---
 
 ### 🌍 **InsightBoard**
-> A dynamic data visualization and analytics platform for businesses.  
-> **Tech:** Flask, React, Plotly, Pandas  
-> **Highlights:** Real-time analytics dashboards, CSV ingestion, and AI forecasting.
+> Real-time data visualization dashboard for business analytics.  
+> **Stack:** Flask, React, Plotly, Pandas  
+> 🔹 Provides data insights, forecasting, and trend analysis.
+
+---
 
 ### 🤖 **AI Chat Companion**
-> A conversational assistant built using OpenAI API & LangChain, integrated with custom knowledge base.  
-> **Tech:** Flask, OpenAI, Pinecone, React  
-> **Highlights:** Context retention, prompt optimization, API-driven chat UI.
+> Custom chatbot integrated with LLMs and private knowledge base.  
+> **Stack:** Flask, LangChain, OpenAI API, Pinecone  
+> 🔹 Context-aware conversations + smart memory system.
+
+---
 
 ### 🕸️ **DevPortfolio Generator**
-> A web app to automatically generate stunning GitHub READMEs and portfolios.  
-> **Tech:** Django, Tailwind, Next.js  
-> **Highlights:** Live preview, Markdown export, animated templates.
+> Generate animated, professional GitHub READMEs in seconds.  
+> **Stack:** Django, Next.js, Tailwind  
+> 🔹 Markdown + Live Preview + One-Click Export.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" height="180em" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhaskersemwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskersemwal&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark" alt="activity graph" />
-</p>
-
----
-
-## 🧩 Research & Interests
-
-- 🧬 Artificial Intelligence & Machine Learning  
-- 🧠 Deep Learning and Neural Network Architectures  
-- 🗣️ Natural Language Processing (Chatbots, Summarization, Embeddings)  
-- 📈 Data Visualization & Business Intelligence  
-- ⚙️ Backend Architecture and System Scalability  
-- 🤝 Open Source Contributions  
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🎖️ Contributed to **open source Python libraries**  
-- 🥇 Created **AI-based data tools** used in analytics startups  
-- 💡 Built **end-to-end web apps** with real users  
-- 🧠 Completed **AI & ML certifications** from Coursera and Google  
-- 📘 Published **technical blogs** on web and AI topics  
-- 🌍 Maintains a **portfolio** integrating AI + web innovation  
-
----
-
-## 🧮 Currently Working On
-
-- 🚀 Building a **GitHub Profile README Generator** using Django + React  
-- 🤖 Experimenting with **LLMs for data summarization**  
-- 📊 Developing **real-time analytics dashboards** with Flask and Streamlit  
-- 🎨 Designing a **modern developer portfolio theme**  
-
----
-
-## 💡 Vision & Philosophy
-
-> “Great code isn’t just written — it’s *crafted*. Every function, every model, every pixel matters.”
-
-I believe in **clarity, precision, and purpose** in every line of code.  
-My mission is to create technology that’s not only smart, but meaningful.
-
----
-
-## 📚 Continuous Learning
-
-Here’s what I’m exploring next:
-- **MLOps Pipelines** with Docker & Airflow  
-- **LLM Fine-tuning** for domain-specific tasks  
-- **Next.js 15 App Router & SSR**  
-- **AI Agents** with LangGraph  
-
----
-
-## ✍️ Recent Articles & Blogs
-*(Can be updated automatically with GitHub Actions)*
-
-- [The Art of Building Scalable AI-Driven Apps](#)
-- [Why Django + React is a Power Duo for Developers](#)
-- [Deploying Machine Learning Models with Docker and Flask](#)
-- [Data-Driven Design: Merging Analytics with UI/UX](#)
-
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=tokyonight&layout=compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskersemwal&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
 
-## 🧑‍💻 Coding Philosophy
+## 🏆 Achievements
 
-- 💬 *Code should be clean, not clever.*  
-- 🧩 *Good developers write code; great developers solve problems.*  
-- 🪄 *Automation is intelligence in motion.*  
+- 🎯 Built **AI-based tools** used in real-world projects  
+- 💡 Designed **data-driven systems** for analytics startups  
+- 🥇 Contributed to **open-source Python & JS projects**  
+- 📚 Completed **AI/ML Certifications** (Coursera, Google)  
+- ✍️ Published **Tech Blogs** & UI/UX experiments  
+- 🚀 Continuously exploring **AI x Web fusion projects**
 
 ---
 
-## 🤝 Let’s Connect
+## 🧩 Areas of Interest
+
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Deep Learning & Neural Networks  
+- 🗣️ NLP and Chatbot Systems  
+- 🧮 Data Visualization & Business Intelligence  
+- ⚙️ Cloud Architecture & System Design  
+
+---
+
+## 🌈 GitHub Stats Overview
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskersemwal&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## ✨ Philosophy
+
+> “Every bug teaches. Every project transforms. Every commit tells a story.”
+
+💬 *Code should not only run — it should inspire.*  
+💡 I build with **clarity**, **purpose**, and **curiosity**.
+
+---
+
+## 🧩 Currently Exploring
+
+- 🧠 **LLM Fine-tuning** for personal assistants  
+- ⚙️ **MLOps Pipelines** with Docker & Airflow  
+- 🌍 **Next.js 15 App Router** with SSR & animations  
+- 🤖 **AI Agents** with LangGraph  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/bhaskersemwal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://bhaskersemwal.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:bhaskersemwal07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/bhaskersemwal" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🌈 Visitor Count
+## 👀 Visitor Count
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YourGitHubUsername/count.svg" />
+  <img src="https://profile-counter.glitch.me/bhaskersemwal/count.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding animation">
 </p>
 
-<p align="center">
-  <b>💖 Crafted with passion. Fueled by curiosity. Driven by code.</b>
-</p>
+<h3 align="center">💖 Crafted with passion. Driven by curiosity. Empowered by code.</h3>
